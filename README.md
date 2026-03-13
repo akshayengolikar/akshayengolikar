@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+there%2C+I'm+Akshay+%F0%9F%91%8B;Data+Engineer+%C2%B7+Python+Developer+%C2%B7+AI+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+there%2C+I'm+Akshay+%F0%9F%91%8B;Data+Engineer+%C2%B7+Python+Developer+%C2%B7+AI+Builder" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akshayengolikar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshayengolikar)
 [![Email](https://img.shields.io/badge/Email-akshayengolikar27-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshayengolikar27@gmail.com)
